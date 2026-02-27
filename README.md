@@ -15,7 +15,4 @@ I am a frontend developer with 2 years of experience. The place I studied is IT 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xasanboy0916&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
